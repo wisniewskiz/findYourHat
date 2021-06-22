@@ -3,8 +3,11 @@ codeCadmey portfolio project.
 
 ## Table of Contents
 -[General Info](#general-info)
+
 -[Technologies](#technologies)
+
 -[Setup](#setup)
+
 -[Features](#features)
 
 ### General Info
